@@ -23,7 +23,7 @@ Pharo.exe ../Baseline.image
 
 ** Pharo Image ** After open the Baseline Image you should see the following window:
 
-[BaseLine Image Preview](images/BasePlayground.png)
+![BaseLine Image Preview](images/BasePlayground.png?raw=true)
 
 #### Before & After Working Session
 
