@@ -23,7 +23,7 @@ Pharo.exe ../Baseline.image
 
 ** Pharo Image ** After open the Baseline Image you should see the following window:
 
-![BaseLine Image Preview](images/BasePlayground.png | width=48)
+<img src="images/BasePlayground.png" width="48">
 
 #### Before & After Working Session
 
