@@ -3,11 +3,11 @@ This respository contain the artifacts needed to replicate our experiment in the
 
 
 
-## Baseline
+# Baseline
 
-### Open Baseline Image.
+#### Open Baseline Image.
 
-### Before & After Working Session
+#### Before & After Working Session
 
 Before each participant init a task we execute the following script in smalltalk. It allow us to track the time that user init the experiment and how many mouse clicks, movements.
 ```
@@ -25,8 +25,6 @@ The last script generate a txt file with the following information: start time, 
 11:34:52.5205 am,11:34:56.38016 am,14,75,0
 ```
 
-## Matrix
+# Matrix
 
 
-
-## Collected Data
