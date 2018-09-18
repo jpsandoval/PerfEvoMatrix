@@ -64,7 +64,6 @@ cd Pharo-Windows
 Pharo.exe ../Matrix.image
 ```
 
-```
 ## Open a project
 
 There are three projects under study, depending of the project you wanna use for the task one of the following scripts.
