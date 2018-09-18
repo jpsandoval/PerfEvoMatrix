@@ -78,7 +78,7 @@ ToadBuilder roassal.
 
 **XML**
 ```
-TProfileVersion xml.
+ToadBuilder xml.
 ```
 **Grapher**
 ```
