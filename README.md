@@ -85,7 +85,7 @@ TProfileVersion openXML.
 ToadBuilder xml.
 ```
 
-# Before & After Working Session
+# Data Gathering
 
 Before each participant starts a task we execute the following script in Smalltalk. It allows us to track the time that a user starts the experiment and how many mouse clicks, movements.
 ```
