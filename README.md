@@ -41,7 +41,7 @@ TProfileVersion openGrapher.
 ```
 
 ## Baseline Options
-For each project, we provide a UI which contains all the tools we use as a baseline.
+For each project, we provide a UI which contains all the tools we use as a baseline. Each item in the list is a version of the selected project.
 
 <img src="images/baseline.png" width="300">
 
