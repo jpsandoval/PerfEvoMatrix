@@ -62,7 +62,7 @@ TProfileVersion openGrapher.
 For each project, we provide a UI which contains all the tools we use as baseline.
 
 
-<img src="images/Baselina.png" width="300">
+<img src="images/baseline.png" width="300">
 
 - Browse: open a standar window to inspect the code of the project in the selected version.
 - Profile: open a window with a call context tree for the selected version.
