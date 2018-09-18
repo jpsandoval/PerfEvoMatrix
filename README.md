@@ -78,11 +78,11 @@ ToadBuilder roassal.
 
 **XML**
 ```
-TProfileVersion openXML.
+TProfileVersion xml.
 ```
 **Grapher**
 ```
-ToadBuilder xml.
+ToadBuilder grapher.
 ```
 
 # Data Gathering
