@@ -23,9 +23,9 @@ Pharo.exe ../Baseline.image
 
 **Pharo Image.** After open the Baseline Image you should see the following window:
 
-<img src="images/BasePlayground.png" width="200">
+<img src="images/BasePlayground.png" width="300">
 
-#### Before & After Working Session
+### Before & After Working Session
 
 Before each participant init a task we execute the following script in smalltalk. It allow us to track the time that user init the experiment and how many mouse clicks, movements.
 ```
@@ -42,7 +42,7 @@ The last script generate a txt file with the following information: start time, 
 ```
 11:34:52.5205 am,11:34:56.38016 am,14,75,0
 ```
-#### Open a project
+### Open a project
 
 There are three projects under study, depending of the project you wanna use for the task one of the following scripts.
 
@@ -59,8 +59,15 @@ TProfileVersion openXML.
 ```
 TProfileVersion openGrapher.
 ```
+For each project, we provide a UI which contains all the tools we use as baseline.
 
 
+<img src="images/Baselina.png" width="300">
+
+- Browse: open a standar window to inspect the code of the project in the selected version.
+- Profile: open a window with a call context tree for the selected version.
+- Source Diff: open a window with the code differences between the selected version and the previous one.
+- Execution Diff: open a window with the merge call context tree gathered from the selected version and the previous one.
 
 # Matrix
 
