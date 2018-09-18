@@ -8,20 +8,20 @@ This respository contain the artifacts needed to replicate our experiment in the
 #### Open Baseline Image.
 
 
-** MacOSX.** We do all the experiments in a Mac Book Pro. To open the Baselina setup execute the following command in the folder where this project was download.
+**MacOSX** We do all the experiments in a Mac Book Pro. To open the Baselina setup execute the following command in the folder where this project was download.
 
 ```
 ./Pharo-OSX/Pharo.app/Contents/MacOS/Pharo Baseline.image
 ```
 
-** Windows**
+**Windows**
 You may also run the experiment in Windows, but depending of the windows version you have installed it may be some some UI bugs.
 ```
 cd Pharo-Windows
 Pharo.exe ../Baseline.image
 ```
 
-** Pharo Image ** After open the Baseline Image you should see the following window:
+**Pharo Image** After open the Baseline Image you should see the following window:
 
 <img src="images/BasePlayground.png" width="200">
 
