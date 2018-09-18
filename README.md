@@ -38,6 +38,8 @@ TProfileVersion openXML.
 ```
 TProfileVersion openGrapher.
 ```
+
+## Baseline Options
 For each project, we provide a UI which contains all the tools we use as baseline.
 
 <img src="images/baseline.png" width="300">
