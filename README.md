@@ -105,3 +105,6 @@ The last script generates a file with the following information: start time, end
 
 # Quit
 To close the artifact, just close the window or press click in any free space of the window and select quit.
+
+#Video and Demo
+[link](MatrixVideo.mp4)
