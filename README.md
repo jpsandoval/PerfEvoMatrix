@@ -9,7 +9,7 @@ The baseline contains the tools and the project-dataset to realize the tasks des
 
 ## Open the Baseline
 
-**MacOSX.** We do all the experiments in a Mac Book Pro. To open the Baseline execute the following command in the folder where this project was downloaded.
+**MacOSX.** We do all the experiments in a Mac Book Pro. To open the Baseline execute the following command in the folder where this project was downloaded. 
 
 ```
 ./Pharo-OSX/Pharo.app/Contents/MacOS/Pharo Baseline.image
@@ -24,7 +24,7 @@ Pharo.exe ../Baseline.image
 
 ## Open a Project
 
-There are three projects under study, depending on the project you wanna use for the task one of the following scripts.
+There are three projects under study, depending on the project you wanna use for the task, you may execute one of the following scripts. For executing a script press Cmd-d or right-click and press do it.
 
 **Roassal**
 ```
@@ -54,7 +54,7 @@ For each project, we provide a UI which contains all the tools we use as a basel
 
 ## Open Matrix Image.
 
-**MacOSX.** We do all the experiments in a Mac Book Pro. To open the Matrix execute the following command in the folder where this project was downloaded.
+**MacOSX.** We do all the experiments in a Mac Book Pro. To open the Matrix execute the following command in the folder where this project was downloaded. 
 
 ```
 ./Pharo-OSX/Pharo.app/Contents/MacOS/Pharo Matrix.image
@@ -69,7 +69,7 @@ Pharo.exe ../Matrix.image
 
 ## Open a project
 
-There are three projects under study, depending on the project you wanna use for the task one of the following scripts.
+There are three projects under study, depending on the project you wanna use for the task, you may execute one of the following scripts. For executing a script press Cmd-d or right-click and press do it.
 
 **Roassal**
 ```
@@ -87,7 +87,7 @@ ToadBuilder grapher.
 
 # Data Gathering
 
-Before each participant starts a task we execute the following script in Smalltalk. It allows us to track the time that a user starts the experiment and how many mouse clicks, movements.
+Before each participant starts a task we execute the following script in Smalltalk. For executing a script press Cmd-d or right-click and press do it. It allows us to track the time that a user starts the experiment and how many mouse clicks, movements.
 ```
 UProfiler newSession.
 UProfiler current start.
