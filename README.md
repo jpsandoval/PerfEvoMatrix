@@ -107,4 +107,4 @@ The last script generates a file with the following information: start time, end
 To close the artifact, just close the window or press click in any free space of the window and select quit.
 
 # Video Demo
-[link](https://github.com/jpsandoval/PerfEvoMatrix/blob/master/MatrixMovie.mp4)
+[download](https://github.com/jpsandoval/PerfEvoMatrix/blob/master/MatrixMovie.mp4)
