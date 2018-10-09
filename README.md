@@ -102,7 +102,7 @@ The last script generates a file with the following information: start time, end
 ```
 11:34:52.5205 am,11:34:56.38016 am,14,75,0
 
-
+```
 # Quit
 To close the artifact, just close the window or press click in any free space of the window and select quit.
 
