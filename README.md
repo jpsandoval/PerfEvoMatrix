@@ -25,8 +25,10 @@ Please select the following code, then execute it using the green play button (a
 ToadBuilder xmlSupport.
 ```
 
-# Baseline
+# Experiment
+This subsection describe how to execute the tools, for replicating our experiment.
 
+## Baseline
 The baseline contains the tools and the project-dataset to realize the tasks described in the paper (identifying and understanding performance variations).
 
 ## Open the Baseline
