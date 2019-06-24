@@ -2,6 +2,28 @@
 This repository contains the artifacts needed to replicate our experiment in the paper "Performance Evolution Matrix".
 
 
+# XMLSupport Example
+
+To open the XMLSupport Example (which appears in the paper) execute the following commands in a Terminal.
+
+**MacOSX.** We do all the experiments in a Mac Book Pro. To open the Matrix execute the following command in the folder where this project was downloaded. 
+
+```
+./Pharo-OSX/Pharo.app/Contents/MacOS/Pharo XMLSupportExample.image
+```
+
+**Windows.**
+You may also run the experiment in Windows, but depending on the windows version you have installed it may be some some UI bugs.
+```
+cd Pharo-Windows
+Pharo.exe ../XMLSupportExample.image
+```
+
+**Open the Visualization **
+Please select the following code, then execute it using the green play button (at the top right of the window).
+```
+ToadBuilder xmlSupport.
+```
 
 # Baseline
 
