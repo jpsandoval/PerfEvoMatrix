@@ -1,5 +1,5 @@
 # Performance Evolution Matrix
-This repository contains the artifacts needed to replicate our experiment in the paper "Performance Evolution Matrix".
+This repository contains the artifacts needed to replicate our experiment and verify the claims made in the paper "Performance Evolution Matrix", accepted at the [IEEE VISSOFT'19](http://vissoft19.dcc.uchile.cl).
 
 
 
