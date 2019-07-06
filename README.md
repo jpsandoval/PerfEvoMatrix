@@ -9,7 +9,7 @@ To open the XMLSupport and GraphET Examples (which appears in the paper) execute
 **MacOSX.** We do all the experiments in a Mac Book Pro. To open the Matrix execute the following command in the folder where this project was downloaded. 
 
 ```
-./Pharo-OSX/Pharo.app/Contents/MacOS/Pharo XMLSupportExample.image
+./Pharo-OSX/Pharo.app/Contents/MacOS/Pharo Matrix.image
 ```
 
 **Windows.**
