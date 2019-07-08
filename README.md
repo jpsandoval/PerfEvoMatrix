@@ -19,7 +19,7 @@ cd Pharo-Windows
 Pharo.exe ../XMLSupportExample.image
 ```
 
-**Open the Visualization **
+**Open the Visualization.**
 Please select the following code, then execute it using the green play button (at the top right of the window).
 ```
 ToadBuilder xmlSupportExample.
