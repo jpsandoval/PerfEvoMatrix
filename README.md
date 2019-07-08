@@ -16,7 +16,7 @@ To open the XMLSupport and GraphET Examples (which appears in the paper) execute
 You may also run the experiment in Windows, but depending on the windows version you have installed it may be some some UI bugs.
 ```
 cd Pharo-Windows
-Pharo.exe ../XMLSupportExample.image
+Pharo.exe ../Matrix.image
 ```
 
 **Open the Visualization.**
