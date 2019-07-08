@@ -28,6 +28,7 @@ or
 ```
 ToadBuilder graphETExample.
 ```
+**Note.** There are two buttons at the panel top left In (zoom in) and Out (zoom out). To move the visualization just drag the moves over the panel.
 
 # Experiment
 This subsection describe how to execute the tools, for replicating our experiment.
@@ -76,7 +77,9 @@ For each project, we provide a UI which contains all the tools we use as a basel
 - Browse: open a standard window to inspect the code of the project in the selected version.
 - Profile: open a window with a call context tree for the selected version.
 - Source Diff: open a window with the code differences between the selected version and the previous one.
-- Execution Diff: open a window with the merge call context tree gathered from the selected version and the previous one.
+- Execution Diff: open a window with the merge call context tree gathered from the selected version and the previous one. 
+
+**Note.** All these options require you select first a item in the list.
 
 # Matrix
 
