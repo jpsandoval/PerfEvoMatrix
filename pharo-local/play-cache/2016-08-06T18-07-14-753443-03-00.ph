@@ -1,1 +1,1 @@
-"execute the following script to start recording the mouse events and log the start time"UProfiler newSession.UProfiler current start."execute the following script to stop recording the mouse events and long the end time"UProfiler current end."execute the following line to open the roassal project"ToadBuilder roassal."execute the following line to open the xml project"ToadBuilder xml."execute the following line to open the grapher project"ToadBuilder grapher.
+"execute the following line to open the grapher project"TProfileVersion openGrapher.
